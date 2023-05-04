@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <item name="rbEntertainment" type="id" />
+    <item name="rbGeneral" type="id" />
+    <item name="rbHealth" type="id" />
+    <item name="rb_business" type="id" />
+    <item name="rb_entertainment" type="id" />
+    <item name="rb_general" type="id" />
+    <item name="rb_health" type="id" />
+    <item name="sourceTextView" type="id" />
+    <item name="titleTextView" type="id" />
+    <item name="authorTextView" type="id" />
+    <item name="imageView" type="id" />
+    <item name="business_radio_button" type="id" />
+    <item name="entertainment_radio_button" type="id" />
+    <item name="general_radio_button" type="id" />
+    <item name="health_radio_button" type="id" />
+    <item name="search_view" type="id" />
+    <item name="clear_button" type="id" />
+    <item name="news_recycler_view" type="id" />
+    <item name="article_image" type="id" />
+    <item name="action_search" type="id" />
+</resources>

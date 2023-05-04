@@ -1,7 +1,8 @@
 package com.example.newsapp
 
+import Article
+
 data class NewsApiResponse(
-    val status: String,
-    val totalResults: Int,
-    val articles: List<NewsArticle>
+    val articles: List<Article>?
 )
+
